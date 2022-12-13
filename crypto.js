@@ -92,6 +92,8 @@ const { publicKey, privateKey } = require('./keypair');
 
     console.log(decryptedData.toString('utf-8'))
 
+// -- DIGITAL SIGINATURE (SIGNIN)
+
     
     
 
